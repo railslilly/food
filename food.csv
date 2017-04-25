@@ -1,0 +1,12 @@
+food,seeds,type
+bananas,0,fruit
+apples,1,fruit
+strawberries,1,fruit
+tomatoes,1,vegetable
+mangoes,1,fruit
+broccoli,0,vegetable
+eggplant,0,vegetable
+chicken,0,meat
+porkchop,0,meat
+bacon,0,meat
+pumpkin,1,vegetable:yuck
